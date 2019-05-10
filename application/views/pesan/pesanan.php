@@ -17,7 +17,7 @@
 				</div>
 				<div class="form-group">
 					<label for="form-username">Tanggal Penyewaan</label>
-					<input type="text" name="tanggal" placeholder="DD/MM/YYYY..." class="form-username form-control" id="form-username" required>
+					<input type="text" name="tanggal" placeholder="DD/MM/YYYY.." class="form-username form-control" id="form-username" required>
 				</div>
 				<div class="form-group">
 					<label for="form-field">Jumlah Lapangan</label>
